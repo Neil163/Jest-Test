@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "test": "jest",
+    "preset": "jest-puppeteer"
+  }
+}
